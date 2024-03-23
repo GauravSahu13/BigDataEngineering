@@ -1,0 +1,3 @@
+101,amit,hadoop:hive:spark:big-data
+102,sumit,hive:oozie:hadoop:spark:strom
+103,sunny,kafka:cassandra:hbase
